@@ -1,0 +1,9 @@
+[user]
+	name = kaekasui
+	email = kaekasui_github@icloud.com
+[alias]
+	st = status
+	co = checkout
+
+[core]
+    excludesfile = /Users/kojimamayu/.gitignore_global
